@@ -14,5 +14,9 @@
         "prettier": "2.8.8",
         "vite": "^4.3.9",
         "vite-plugin-eslint": "^1.8.1"
+    },
+    "dependencies": {
+        "three": "^0.155.0",
+        "three-addons": "^1.2.0"
     }
 }
